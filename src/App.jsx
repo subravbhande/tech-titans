@@ -3,8 +3,8 @@ import Header from "./Header";
 import Footer from "./Footer";
 //import Login from "./component/auth/Login";
 //import Signup from "./component/auth/Signup";
-import VendorDashboard from "./component/dashboards/VendorDashboard";
-import RestaurantDashboard from "./component/dashboards/RestaurantDashboard";
+import VendorDashboard from "./component/VendorDashboard";
+import RestaurantDashboard from "./component/RestaurantDashboard";
 import MapComponent from "./component/MapComponent";
 import Trust from "./component/Trust";
 
