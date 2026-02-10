@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import Header from "./components/common/Header";
-import Footer from "./components/common/Footer";
-import Login from "./components/auth/Login";
-import Signup from "./components/auth/Signup";
-import VendorDashboard from "./components/dashboards/VendorDashboard";
-import RestaurantDashboard from "./components/dashboards/RestaurantDashboard";
-import MapComponent from "./components/MapComponent";
-import Trust from "./components/Trust";
+import Header from "./Header";
+import Footer from "./Footer";
+import Login from "./component/auth/Login";
+import Signup from "./component/auth/Signup";
+import VendorDashboard from "./component/dashboards/VendorDashboard";
+import RestaurantDashboard from "./component/dashboards/RestaurantDashboard";
+import MapComponent from "./component/MapComponent";
+import Trust from "./component/Trust";
 
 const App = () => {
   const [currentPage, setCurrentPage] = useState("home");
