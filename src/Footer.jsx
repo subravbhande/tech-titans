@@ -53,7 +53,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <FaMapMarkerAlt className="text-green-500" />
-                <span>Mumbai, India</span>
+                <span>Sangli, India</span>
               </div>
             </div>
           </div>
@@ -80,12 +80,7 @@ const Footer = () => {
               >
                 <FaLinkedinIn />
               </a>
-              <a
-                href="#"
-                className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-green-500 transition"
-              >
-                <FaGithub />
-              </a>
+              
             </div>
           </div>
         </div>
